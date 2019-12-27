@@ -60,15 +60,21 @@ nav{
 /*Footer*/
 
 footer{
-  text-align: center;
   background-color: #66246F ;
   color: #ECE7ED ;
+  height: 80px;
+  padding: 20px;
 }
 
 .footer-text{
   display: inline-block;
+  font-size: 0.5em;
+  text-align: center;
+  vertical-align: middle
 }
 
 .footer-img{
   display: inline-block;
+  text-align: center;
+  vertical-align: middle;
 }
