@@ -3,6 +3,7 @@
 body{
   font-family: 'Open Sans Condensed', sans-serif;
   padding: 10px;
+  color: #907F93
 }
 
 section{
@@ -20,7 +21,7 @@ h2{
 }
 
 nav{
-  background-color: purple;
+  background-color: #66246F ;
   color: white;
 }
 
@@ -38,17 +39,17 @@ nav{
 /*Mi Experiencia*/
 
 #mi-experiencia i{
-  color: purple;
+  color: #66246F ;
 }
 
 /*Mis Trabajos*/
 
 #trabajos{
-  background-color: purple;
+  background-color: #66246F ;
 }
 
 #trabajos h2{
-  color: #ffffff;
+  color: #ECE7ED ;
 }
 
 .card{
@@ -60,8 +61,8 @@ nav{
 
 footer{
   text-align: center;
-  background-color: purple;
-  color: #ffffff;
+  background-color: #66246F ;
+  color: #ECE7ED ;
 }
 
 .footer-text{
