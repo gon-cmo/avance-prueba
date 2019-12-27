@@ -1,0 +1,73 @@
+/*General*/
+
+body{
+  font-family: 'Open Sans Condensed', sans-serif;
+  padding: 10px;
+}
+
+section{
+  text-align: center;
+}
+
+
+h1 {
+  font-weight: bolder;
+
+}
+
+h2{
+  font-weight: 200;
+}
+
+nav{
+  background-color: purple;
+  color: white;
+}
+
+/*Hero*/
+
+#hero h1,h2{
+  font-size: 5em;
+}
+
+.jumbotron{
+  background-image: url("../img/bg_hero.png");
+  color: white;
+}
+
+/*Mi Experiencia*/
+
+#mi-experiencia i{
+  color: purple;
+}
+
+/*Mis Trabajos*/
+
+#trabajos{
+  background-color: purple;
+}
+
+#trabajos h2{
+  color: #ffffff;
+}
+
+.card{
+  display: inline-block;
+  text-align: left;
+}
+
+/*Footer*/
+
+footer{
+  text-align: center;
+  background-color: purple;
+  color: #ffffff;
+}
+
+.footer-text{
+  display: inline-block;
+}
+
+.footer-img{
+  display: inline-block;
+}
